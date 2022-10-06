@@ -450,3 +450,9 @@ i {
   justify-content: center;
   width: 100%;
 }
+
+#error-page h1{
+  color: red;
+  font-size: 34px;
+
+}
